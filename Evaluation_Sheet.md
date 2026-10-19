@@ -3,7 +3,6 @@
 
  Use one sheet per kit/lesson session. Submit with photos of the finished parts and a short summary. Scores feed the pilot report by grade level.
 
----
 
 ### 1. Identification
 
@@ -21,7 +20,6 @@
 | Material used | Plywood / MDF / Acrylic / Cardstock / Other: ______ |
 | Material thickness | |
 
----
 
 ### 2. Design & Build Quality (score each: 0–3)
 
@@ -35,7 +33,6 @@
 
 **Subtotal (Design & Build): ____ / 15**
 
----
 
 ### 3. Mathematical & Pedagogical Impact (score each: 0–3)
 
@@ -49,7 +46,7 @@
 
 **Subtotal (Pedagogy): ____ / 15**
 
----
+
 
 ### 4. Grade-Level Adaptation Check
 
@@ -66,7 +63,6 @@ Mark the adjustments made so the same kit works across levels.
 
 **Grade-level fit verdict:** ☐ Too easy  ☐ Appropriate  ☐ Too hard  ☐ Differentiated well
 
----
 
 ### 5. Observations
 
@@ -76,7 +72,6 @@ Mark the adjustments made so the same kit works across levels.
 - **Design/cut changes for next prototype:**
 - **Time actually spent producing the kit (design / cut / assemble):**
 
----
 
 ### 6. Result Summary (for reporting by grade level)
 
@@ -91,7 +86,6 @@ Mark the adjustments made so the same kit works across levels.
 
 **Supervisor / reviewer signature: ____________________  Date: __________**
 
----
 
 ### 7. Reporting Rules (by grade level)
 
