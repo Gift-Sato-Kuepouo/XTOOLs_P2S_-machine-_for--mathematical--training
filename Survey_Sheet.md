@@ -1,9 +1,8 @@
 # Survey Sheet
 ## Laser-Cut Mathematics Manipulatives — Student & Teacher Surveys
 
-> Two audiences, three moments. Use **Pre** (before using the manipulative), **Post** (right after), and **Teacher/Supervisor** (end of session or unit). Identical pre/post wording makes the gain measurable.
+ Two audiences, three moments. Use **Pre** (before using the manipulative), **Post** (right after), and **Teacher/Supervisor** (end of session or unit). Identical pre/post wording makes the gain measurable.
 
----
 
 ## PART A — Student Survey (Pre & Post)
 
@@ -89,11 +88,9 @@
 
 **Teacher signature: ____________________  Date: __________**
 
----
 
 ## PART C — Combined Report Snapshot (copy into the pilot summary)
 
-```
 KIT: __________________   GRADE: ______   DATE: __________
 STUDENT CONFIDENCE GAIN: +______ (target ≥ +0.5)
 STUDENT USABILITY SCORE: ______ (target ≥ 4.0)
@@ -102,4 +99,4 @@ STUDENTS MEETING OBJECTIVE: ______%
 KIT SURVIVED: yes / no
 RECOMMENDATION: roll out / adjust / redesign
 ONE-LINE VERDICT: ______________________________________
-```
+
