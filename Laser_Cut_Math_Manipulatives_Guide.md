@@ -9,7 +9,6 @@ The best way to use a laser cutter is not to make decorative objects — it is t
 
 The xTool P2S is portable and does the job: it cuts and engraves the thin plywood, MDF, acrylic, and cardstock used throughout this library, and its enclosed design, camera alignment, and approved-material guidance make it well suited to supervised school production.
 
----
 
 ## 1. Laser-Cut Mathematics Manipulatives by Topic
 
@@ -27,7 +26,6 @@ The xTool P2S is portable and does the job: it cuts and engraves the thin plywoo
 
 **Mathematical learning outcome:** Students see *why* fractions are numbers representing quantities — not just symbols on paper.
 
----
 
 ### B. Functions and Algebra
 
@@ -47,7 +45,6 @@ The xTool P2S is portable and does the job: it cuts and engraves the thin plywoo
 
 **Design tip:** Use distinct colors or engraved labels to distinguish variables, constants, and positive vs. negative quantities. For positive/negative algebra tiles, make them double-sided.
 
----
 
 ### C. Trigonometry
 
@@ -67,7 +64,6 @@ The xTool P2S is portable and does the job: it cuts and engraves the thin plywoo
 
 **Design tip:** Engrave degree markings and add a separate radians ring so students connect angle measurement to the unit circle and the periodic behavior of trig functions.
 
----
 
 ### D. Geometry and Measurement
 
@@ -83,7 +79,6 @@ The xTool P2S is portable and does the job: it cuts and engraves the thin plywoo
 
 **Activity:** Give students several geometric nets and ask them to **predict which will form a cube before assembling them**. They must justify predictions using the relationships among faces and edges.
 
----
 
 ### E. Statistics, Probability, and Data
 
@@ -96,7 +91,6 @@ The xTool P2S is portable and does the job: it cuts and engraves the thin plywoo
 
 **Inquiry activity:** Run 100 spins, record outcomes, and compare relative frequency with theoretical probability.
 
----
 
 ### F. Calculus and Advanced Mathematics
 
@@ -107,8 +101,6 @@ For high-school advanced mathematics and introductory college courses, laser-cut
 | **1. Riemann sum tiles** | Rectangles with adjustable widths and heights to fit beneath a printed/engraved curve. Estimate area using left endpoints, right endpoints, and midpoint approximations. |
 | **2. Tangent and secant model** | A curve board and movable straight edges. Move two points closer together to investigate how the secant slope approaches the tangent slope. |
 | **3. Conic sections** | Layered circles, ellipses, parabolas, and hyperbolas with movable foci. Investigate symmetry, distances from foci, and how shapes relate to equations. |
-
----
 
 ## 2. How to Design a Manipulative from Scratch
 
@@ -125,7 +117,6 @@ A repeatable design process for every mathematics topic.
 5. **Pair it with a challenge.**
    Every kit should include a question, instructions, a prediction, a hands-on investigation, and a short reflection or assessment.
 
----
 
 ## 3. Sample 60-Minute Mathematics Lesson
 
@@ -139,9 +130,8 @@ How to use a laser-cut function kit in a middle- or high-school classroom.
 | 15 min | **Extend** | Change the rule to f(x) = 3x + 1. Students explain what changes and what stays the same. |
 | 10 min | **Reflect** | Students write the rule, draw the corresponding graph, and explain how the manipulative helped. |
 
-> The laser cutting itself can happen **before class**. Students interact with the finished parts — not with the operating laser cutter — unless they are participating in an appropriately designed, supervised safety program.
+ The laser cutting itself can happen **before class**. Students interact with the finished parts — not with the operating laser cutter — unless they are participating in an appropriately designed, supervised safety program.
 
----
 
 ## 4. Materials and Practical Considerations
 
@@ -158,7 +148,6 @@ How to use a laser-cut function kit in a middle- or high-school classroom.
 - **Never** laser-cut PVC or unknown plastics.
 - Use proper ventilation, fire precautions, and trained adult supervision.
 
----
 
 ## 5. The Strongest Opportunity: A Complete Mathematics Manipulatives Library
 
@@ -173,9 +162,8 @@ Rather than producing unrelated classroom objects, build a standardized collecti
 | Data and Probability Lab | Statistics, probability, sampling | Grades 5–12 |
 | Calculus Lab | Limits, derivatives, integrals | Grades 11–college |
 
-> These grade bands are **starting points, not strict limits**. The same kit can be differentiated up or down by changing the challenge card that accompanies it.
+These grade bands are **starting points, not strict limits**. The same kit can be differentiated up or down by changing the challenge card that accompanies it.
 
----
 
 ## 6. Reporting & Evaluation
 
@@ -184,7 +172,6 @@ Use the companion instruments in this repository:
 - [`Evaluation_Sheet.md`](./Evaluation_Sheet.md) — a rubric for evaluating each kit/lesson and reporting results by grade level.
 - [`Survey_Sheet.md`](./Survey_Sheet.md) — student and teacher/supervisor surveys (pre/post) to report outcomes by grade level.
 
----
 
 ## References & Inspirations
 
@@ -213,6 +200,5 @@ Design references and similar existing products that informed this guide:
 - Tangent line of a function — Owlcation
 - Conic Sections Model — MathHappens
 
----
 
 *An independent laser-cut mathematics manipulative library for K–12 STEM math labs. Build the manipulative, ask the question, measure the learning.*
