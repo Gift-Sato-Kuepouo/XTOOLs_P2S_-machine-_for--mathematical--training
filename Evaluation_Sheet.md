@@ -2,8 +2,7 @@
 ## Laser-Cut Mathematics Manipulatives — Kit & Lesson Evaluation
 
  Use one sheet per kit/lesson session. Submit with photos of the finished parts and a short summary. Scores feed the pilot report by grade level.
-
-
+ 
 ### 1. Identification
 
 | Field | Entry |
