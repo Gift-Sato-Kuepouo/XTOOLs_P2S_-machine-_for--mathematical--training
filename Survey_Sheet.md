@@ -91,12 +91,12 @@
 
 ## PART C — Combined Report Snapshot (copy into the pilot summary)
 
-KIT: __________________   GRADE: ______   DATE: __________
-STUDENT CONFIDENCE GAIN: +______ (target ≥ +0.5)
-STUDENT USABILITY SCORE: ______ (target ≥ 4.0)
-TEACHER OVERALL (mean B1): ______ / 5
-STUDENTS MEETING OBJECTIVE: ______%
-KIT SURVIVED: yes / no
-RECOMMENDATION: roll out / adjust / redesign
-ONE-LINE VERDICT: ______________________________________
+- KIT: __________________   GRADE: ______   DATE: __________
+- STUDENT CONFIDENCE GAIN: +______ (target ≥ +0.5)
+- STUDENT USABILITY SCORE: ______ (target ≥ 4.0)
+- TEACHER OVERALL (mean B1): ______ / 5
+- STUDENTS MEETING OBJECTIVE: ______%
+- KIT SURVIVED: yes / no
+- RECOMMENDATION: roll out / adjust / redesign
+- ONE-LINE VERDICT: ______________________________________
 
