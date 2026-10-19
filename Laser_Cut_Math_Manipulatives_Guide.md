@@ -1,9 +1,9 @@
 # Laser-Cut Mathematics Manipulatives
 ## Design Guide & Reusable Kit Library (K–12 STEM)
 
-> **Project:** Independent proposal — a laser-cut mathematics manipulative library for a K–12 STEM math lab
-> **Machine:** xTool P2S (portable CO₂ laser cutter)
-> **Purpose:** Turn abstract mathematical ideas into physical objects students can move, compare, assemble, measure, and test.
+ **Project:** Independent proposal — a laser-cut mathematics manipulative library for a K–12 STEM math lab
+ **Machine:** xTool P2S (portable CO₂ laser cutter)
+ **Purpose:** Turn abstract mathematical ideas into physical objects students can move, compare, assemble, measure, and test.
 
 The best way to use a laser cutter is not to make decorative objects — it is to turn abstract mathematics into something students can hold and manipulate. Every manipulative in this library is designed to help a student **answer a mathematical question**, not simply to build an attractive item.
 
